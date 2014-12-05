@@ -16,7 +16,7 @@ o   | wo  | ro  | mo  | po  | bo  | ho  | no  | do  | to   | jo  | so   | go  | 
 u   | wu  | ru  | mu  | pu  | bu  | hu  | nu  |     | tsu  | zu  | su   | gu  | ku  | fu
 ya  |     | rya | mya | pya | bya | hya | nya |     | chya | jya | shya | gya | kya |
 yo  |     | ryo | myo | pyo | byo | hyo | nyo |     | chyo | jyo | shyo | gyo | kyo |
-yu  |     | ryu | myu | pyu | byu | hyu | nyu |     | chya | jyu | shyu | gyu | kyu |
+yu  |     | ryu | myu | pyu | byu | hyu | nyu |     | chyu | jyu | shyu | gyu | kyu |
     |     |     |     |     |     |     | n   |     |      |     |      |     |     |
 
 Penultimate Accents
