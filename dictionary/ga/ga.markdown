@@ -1,5 +1,5 @@
 ---
-Title: ga
+title: ga
 ---
 
 Pronoun

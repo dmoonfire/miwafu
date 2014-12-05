@@ -1,5 +1,5 @@
 ---
-Title: nágo
+title: nago
 ---
 
 Noun

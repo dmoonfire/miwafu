@@ -1,5 +1,5 @@
 ---
-Title: jyōn
+title: jyon
 ---
 
 Adjective

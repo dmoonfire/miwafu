@@ -1,5 +1,5 @@
 ---
-Title: shikāfu
+title: shikafu
 ---
 
 Noun

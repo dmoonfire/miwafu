@@ -1,5 +1,5 @@
 ---
-Title: nyān
+title: nyan
 ---
 
 Adjective

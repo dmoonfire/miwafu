@@ -1,5 +1,5 @@
 ---
-Title: mushìgi
+title: mushigi
 ---
 
 Noun

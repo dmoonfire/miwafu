@@ -1,5 +1,5 @@
 ---
-Title: pìbafu
+title: pibafu
 ---
 
 Noun

@@ -1,5 +1,5 @@
 ---
-Title: barìchi
+title: barichi
 ---
 
 Adjective

@@ -1,5 +1,5 @@
 ---
-Title: kímu
+title: kimu
 ---
 
 Verb

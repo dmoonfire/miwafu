@@ -1,5 +1,5 @@
 ---
-Title: chīfu
+title: chifu
 ---
 
 Adjective

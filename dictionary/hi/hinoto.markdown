@@ -1,5 +1,5 @@
 ---
-Title: hinóto
+title: hinoto
 ---
 
 Noun

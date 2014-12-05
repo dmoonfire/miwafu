@@ -1,5 +1,5 @@
 ---
-Title: remígu
+title: remigu
 ---
 
 Noun

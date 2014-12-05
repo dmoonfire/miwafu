@@ -1,5 +1,5 @@
 ---
-Title: bikíku
+title: bikiku
 ---
 
 Noun

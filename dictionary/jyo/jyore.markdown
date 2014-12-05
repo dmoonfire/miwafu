@@ -1,5 +1,5 @@
 ---
-Title: jyōre
+title: jyore
 ---
 
 Numeral

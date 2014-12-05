@@ -1,5 +1,5 @@
 ---
-Title: jyōshya
+title: jyoshya
 ---
 
 Adverb

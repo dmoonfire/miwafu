@@ -1,5 +1,5 @@
 ---
-Title: fāmu
+title: famu
 ---
 
 Noun

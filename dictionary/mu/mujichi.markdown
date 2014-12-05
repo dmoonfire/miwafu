@@ -1,5 +1,5 @@
 ---
-Title: mujìchi
+title: mujichi
 ---
 
 Adjective

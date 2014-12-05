@@ -1,5 +1,5 @@
 ---
-Title: Mifúno
+title: mifuno
 ---
 
 Noun

@@ -1,5 +1,5 @@
 ---
-Title: pàdu
+title: padu
 ---
 
 Noun

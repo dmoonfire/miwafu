@@ -1,5 +1,5 @@
 ---
-Title: bìre
+title: bire
 ---
 
 Noun

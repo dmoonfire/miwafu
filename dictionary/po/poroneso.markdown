@@ -1,5 +1,5 @@
 ---
-Title: poronēso
+title: poroneso
 ---
 
 Noun

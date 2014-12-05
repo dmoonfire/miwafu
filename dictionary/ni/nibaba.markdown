@@ -1,5 +1,5 @@
 ---
-Title: nibába
+title: nibaba
 ---
 
 Noun

@@ -1,5 +1,5 @@
 ---
-Title: kádu
+title: kadu
 ---
 
 Noun

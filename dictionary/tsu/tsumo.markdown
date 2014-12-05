@@ -1,5 +1,5 @@
 ---
-Title: tsúmo
+title: tsumo
 ---
 
 Noun

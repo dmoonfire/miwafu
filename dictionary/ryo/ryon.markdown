@@ -1,5 +1,5 @@
 ---
-Title: ryōn
+title: ryon
 ---
 
 Noun

@@ -1,5 +1,5 @@
 ---
-Title: mukísa
+title: mukisa
 ---
 
 Noun

@@ -1,5 +1,5 @@
 ---
-Title: chirúni
+title: chiruni
 ---
 
 Noun

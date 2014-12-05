@@ -1,5 +1,5 @@
 ---
-Title: kochōzo
+title: kochozo
 ---
 
 Verb

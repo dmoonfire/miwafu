@@ -1,5 +1,5 @@
 ---
-Title: tóki
+title: toki
 ---
 
 Noun

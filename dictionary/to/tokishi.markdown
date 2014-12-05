@@ -1,5 +1,5 @@
 ---
-Title: tokíshi
+title: tokishi
 ---
 
 Noun

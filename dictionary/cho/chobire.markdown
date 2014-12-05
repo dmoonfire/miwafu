@@ -1,5 +1,5 @@
 ---
-Title: chobìre
+title: chobire
 ---
 
 Noun

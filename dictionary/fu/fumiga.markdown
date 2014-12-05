@@ -1,5 +1,5 @@
 ---
-Title: fumíga
+title: fumiga
 ---
 
 Noun

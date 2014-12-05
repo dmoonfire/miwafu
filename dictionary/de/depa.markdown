@@ -1,5 +1,5 @@
 ---
-Title: dépa
+title: depa
 ---
 
 Noun

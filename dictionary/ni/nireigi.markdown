@@ -1,5 +1,5 @@
 ---
-Title: nireígi
+title: nireigi
 ---
 
 Adjective

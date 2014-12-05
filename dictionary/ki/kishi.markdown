@@ -1,5 +1,5 @@
 ---
-Title: kìshi
+title: kishi
 ---
 
 Noun

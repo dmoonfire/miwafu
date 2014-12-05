@@ -1,5 +1,5 @@
 ---
-Title: hachīfu
+title: hachifu
 ---
 
 Noun

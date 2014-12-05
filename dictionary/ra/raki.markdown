@@ -1,5 +1,5 @@
 ---
-Title: ráki
+title: raki
 ---
 
 Noun

@@ -1,5 +1,5 @@
 ---
-Title: pimīga
+title: pimiga
 ---
 
 Noun

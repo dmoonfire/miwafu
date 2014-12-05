@@ -1,5 +1,5 @@
 ---
-Title: kikōchyo
+title: kikochyo
 ---
 
 Noun

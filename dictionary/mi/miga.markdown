@@ -1,5 +1,5 @@
 ---
-Title: míga
+title: miga
 ---
 
 Noun

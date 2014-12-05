@@ -1,5 +1,5 @@
 ---
-Title: bupóbo
+title: bupobo
 ---
 
 Noun

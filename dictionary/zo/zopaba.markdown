@@ -1,5 +1,5 @@
 ---
-Title: zopāba
+title: zopaba
 ---
 
 Noun

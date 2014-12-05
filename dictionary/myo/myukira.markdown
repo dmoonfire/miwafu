@@ -1,5 +1,5 @@
 ---
-Title: myukíra
+title: myukira
 ---
 
 Noun

@@ -1,5 +1,5 @@
 ---
-Title: pu
+title: pu
 ---
 
 Pronoun

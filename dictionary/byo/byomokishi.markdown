@@ -1,5 +1,5 @@
 ---
-Title: byomokīshi
+title: byomokishi
 ---
 
 Noun

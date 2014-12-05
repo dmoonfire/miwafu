@@ -1,5 +1,5 @@
 ---
-Title: kūga
+title: kuga
 ---
 
 Verb

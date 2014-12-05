@@ -1,5 +1,5 @@
 ---
-Title: myorègu
+title: myoregu
 ---
 
 Noun

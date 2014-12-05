@@ -1,5 +1,5 @@
 ---
-Title: bichíru
+title: bichiru
 ---
 
 Noun

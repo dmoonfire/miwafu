@@ -1,5 +1,5 @@
 ---
-Title: nichìza
+title: nichiza
 ---
 
 Noun

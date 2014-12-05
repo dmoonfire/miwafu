@@ -1,5 +1,5 @@
 ---
-Title: fūgi
+title: fugi
 ---
 
 Verb

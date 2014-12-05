@@ -1,5 +1,5 @@
 ---
-Title: mi
+title: mi
 ---
 
 Pronoun

@@ -1,5 +1,5 @@
 ---
-Title: kōdi
+title: kodi
 ---
 
 Verb

@@ -1,5 +1,5 @@
 ---
-Title: mìchi
+title: michi
 ---
 
 Verb

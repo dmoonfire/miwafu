@@ -1,5 +1,5 @@
 ---
-Title: jyōmyo
+title: jyomyo
 ---
 
 Pronoun

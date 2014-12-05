@@ -1,5 +1,5 @@
 ---
-Title: detomùsa
+title: detomusa
 ---
 
 Noun

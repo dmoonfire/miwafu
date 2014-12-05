@@ -1,5 +1,5 @@
 ---
-Title: fōni
+title: foni
 ---
 
 Noun

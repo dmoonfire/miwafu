@@ -1,5 +1,5 @@
 ---
-Title: kōji
+title: koji
 ---
 
 Verb

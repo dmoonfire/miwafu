@@ -1,5 +1,5 @@
 ---
-Title: gàchi
+title: gachi
 ---
 
 Verb

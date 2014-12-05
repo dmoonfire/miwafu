@@ -1,5 +1,5 @@
 ---
-Title: nído
+title: nido
 ---
 
 Noun

@@ -1,5 +1,5 @@
 ---
-Title: wānu
+title: wanu
 ---
 
 Noun

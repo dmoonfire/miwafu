@@ -1,5 +1,5 @@
 ---
-Title: parēchyo
+title: parechyo
 ---
 
 Noun

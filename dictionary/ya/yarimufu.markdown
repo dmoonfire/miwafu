@@ -1,5 +1,5 @@
 ---
-Title: yarimùfu
+title: yarimufu
 ---
 
 Noun

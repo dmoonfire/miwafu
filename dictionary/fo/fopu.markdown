@@ -1,5 +1,5 @@
 ---
-Title: fōpu
+title: fopu
 ---
 
 Adjective

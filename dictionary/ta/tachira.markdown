@@ -1,5 +1,5 @@
 ---
-Title: tachìra
+title: tachira
 ---
 
 Noun

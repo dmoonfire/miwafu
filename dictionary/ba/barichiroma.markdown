@@ -1,5 +1,5 @@
 ---
-Title: barichirōma
+title: barichiroma
 ---
 
 Noun

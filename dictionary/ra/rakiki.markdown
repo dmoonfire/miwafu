@@ -1,5 +1,5 @@
 ---
-Title: rakìki
+title: rakiki
 ---
 
 Noun

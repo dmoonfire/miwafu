@@ -1,5 +1,5 @@
 ---
-Title: chōn
+title: chon
 ---
 
 Adjective

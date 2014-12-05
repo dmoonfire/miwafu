@@ -1,5 +1,5 @@
 ---
-Title: bàba
+title: baba
 ---
 
 Noun

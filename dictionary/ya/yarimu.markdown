@@ -1,5 +1,5 @@
 ---
-Title: yarīmu
+title: yarimu
 ---
 
 Noun

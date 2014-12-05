@@ -1,5 +1,5 @@
 ---
-Title: fùchi
+title: fuchi
 ---
 
 Noun

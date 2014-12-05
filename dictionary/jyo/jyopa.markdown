@@ -1,5 +1,5 @@
 ---
-Title: jyōpa
+title: jyopa
 ---
 
 Numeral

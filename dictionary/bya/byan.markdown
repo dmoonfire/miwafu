@@ -1,5 +1,5 @@
 ---
-Title: byān
+title: byan
 ---
 
 Noun

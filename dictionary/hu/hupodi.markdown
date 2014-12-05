@@ -1,5 +1,5 @@
 ---
-Title: hupódi
+title: hupodi
 ---
 
 Verb

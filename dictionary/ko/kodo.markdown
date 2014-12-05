@@ -1,5 +1,5 @@
 ---
-Title: kódo
+title: kodo
 ---
 
 Noun

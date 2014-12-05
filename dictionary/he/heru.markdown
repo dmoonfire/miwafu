@@ -1,5 +1,5 @@
 ---
-Title: hèru
+title: heru
 ---
 
 Noun

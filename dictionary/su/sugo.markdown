@@ -1,5 +1,5 @@
 ---
-Title: súgo
+title: sugo
 ---
 
 Noun

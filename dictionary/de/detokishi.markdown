@@ -1,5 +1,5 @@
 ---
-Title: detokìshi
+title: detokishi
 ---
 
 Noun

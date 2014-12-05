@@ -1,5 +1,5 @@
 ---
-Title: kífi
+title: kifi
 ---
 
 Verb

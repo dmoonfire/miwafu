@@ -1,5 +1,5 @@
 ---
-Title: defòni
+title: defoni
 ---
 
 Noun

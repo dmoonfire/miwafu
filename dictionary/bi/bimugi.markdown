@@ -1,5 +1,5 @@
 ---
-Title: bimùgi
+title: bimugi
 ---
 
 Noun

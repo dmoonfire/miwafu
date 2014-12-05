@@ -1,5 +1,5 @@
 ---
-Title: kodòshyo
+title: kodoshyo
 ---
 
 Noun

@@ -1,5 +1,5 @@
 ---
-Title: kyōn
+title: kyon
 ---
 
 Noun

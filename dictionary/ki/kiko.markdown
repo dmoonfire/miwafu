@@ -1,5 +1,5 @@
 ---
-Title: kìko
+title: kiko
 ---
 
 Noun

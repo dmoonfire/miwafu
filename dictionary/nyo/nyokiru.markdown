@@ -1,5 +1,5 @@
 ---
-Title: nyokìru
+title: nyokiru
 ---
 
 Noun

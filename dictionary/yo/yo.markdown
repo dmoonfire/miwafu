@@ -1,5 +1,5 @@
 ---
-Title: yo
+title: yo
 ---
 
 Marker

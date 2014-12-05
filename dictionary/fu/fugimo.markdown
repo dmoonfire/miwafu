@@ -1,5 +1,5 @@
 ---
-Title: fugìmo
+title: fugimo
 ---
 
 Noun

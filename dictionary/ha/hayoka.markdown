@@ -1,5 +1,5 @@
 ---
-Title: hayòka
+title: hayoka
 ---
 
 Adjective

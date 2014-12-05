@@ -1,5 +1,5 @@
 ---
-Title: tsùfi
+title: tsufi
 ---
 
 Noun

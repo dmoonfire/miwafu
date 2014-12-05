@@ -1,5 +1,5 @@
 ---
-Title: tazágu
+title: tazagu
 ---
 
 Noun

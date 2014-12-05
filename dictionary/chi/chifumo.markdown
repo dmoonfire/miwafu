@@ -1,5 +1,5 @@
 ---
-Title: chifùmo
+title: chifumo
 ---
 
 Noun

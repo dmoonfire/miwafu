@@ -1,5 +1,5 @@
 ---
-Title: kojīfu
+title: kojifu
 ---
 
 Verb

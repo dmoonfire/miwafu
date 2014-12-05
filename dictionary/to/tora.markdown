@@ -1,5 +1,5 @@
 ---
-Title: tora
+title: tora
 ---
 
 Noun

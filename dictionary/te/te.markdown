@@ -1,5 +1,5 @@
 ---
-Title: te
+title: te
 ---
 
 Pronoun

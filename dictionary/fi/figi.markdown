@@ -1,5 +1,5 @@
 ---
-Title: fígi
+title: figi
 ---
 
 Noun

@@ -1,5 +1,5 @@
 ---
-Title: tsukíre
+title: tsukire
 ---
 
 Noun

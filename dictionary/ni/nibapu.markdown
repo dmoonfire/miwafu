@@ -1,5 +1,5 @@
 ---
-Title: nibàpu
+title: nibapu
 ---
 
 Noun

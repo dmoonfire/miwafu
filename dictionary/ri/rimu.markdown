@@ -1,5 +1,5 @@
 ---
-Title: rímu
+title: rimu
 ---
 
 Noun

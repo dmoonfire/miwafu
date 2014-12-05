@@ -1,5 +1,5 @@
 ---
-Title: kirèki
+title: kireki
 ---
 
 Noun

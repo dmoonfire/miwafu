@@ -1,5 +1,5 @@
 ---
-Title: munìsa
+title: munisa
 ---
 
 Noun

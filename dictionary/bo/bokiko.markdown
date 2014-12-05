@@ -1,5 +1,5 @@
 ---
-Title: bokíko
+title: bokiko
 ---
 
 Noun

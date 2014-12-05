@@ -1,5 +1,5 @@
 ---
-Title: dòtsu
+title: dotsu
 ---
 
 Noun

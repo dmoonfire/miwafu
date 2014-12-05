@@ -1,5 +1,5 @@
 ---
-Title: tsufóni
+title: tsufoni
 ---
 
 Noun

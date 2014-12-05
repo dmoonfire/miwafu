@@ -1,5 +1,5 @@
 ---
-Title: gùpa
+title: gupa
 ---
 
 Verb

@@ -1,5 +1,5 @@
 ---
-Title: korōma
+title: koroma
 ---
 
 Adjective

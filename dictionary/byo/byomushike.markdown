@@ -1,5 +1,5 @@
 ---
-Title: chifùmobyomushīke
+title: byomushike
 ---
 
 Noun

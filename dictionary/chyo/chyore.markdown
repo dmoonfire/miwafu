@@ -1,5 +1,5 @@
 ---
-Title: chyòre
+title: chyore
 ---
 
 Noun

@@ -1,5 +1,5 @@
 ---
-Title: tata
+title: tata
 ---
 
 Pronoun

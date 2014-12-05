@@ -1,5 +1,5 @@
 ---
-Title: búpo
+title: bupo
 ---
 
 Verb
