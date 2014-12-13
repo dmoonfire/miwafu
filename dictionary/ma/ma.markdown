@@ -1,11 +1,11 @@
 ---
-title: mi
+title: ma
 ---
 
-Pronoun
+Adjective
 ================================
 
-mi
+ma
 ----------------
 
 1. Me, I, mine.

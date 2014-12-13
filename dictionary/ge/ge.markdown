@@ -1,11 +1,11 @@
 ---
-title: ga
+title: ge
 ---
 
-Pronoun
+Adjective
 ================================
 
-ga
+ge
 ----------------
 
 1. My clan.
