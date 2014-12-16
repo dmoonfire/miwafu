@@ -30,3 +30,6 @@ rócho
 
 1. To have a passive-aggressive fight.
 2. To fight without revealing the purpose of the fight.
+
+
+ròcho: (v) 2. To fight for the sake of fighting.
