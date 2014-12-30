@@ -8,4 +8,4 @@ Verb
 hyukádi
 ----------------
 
-1 To volunteer or give assistance.
+1. To volunteer or give assistance.
