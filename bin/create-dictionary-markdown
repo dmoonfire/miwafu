@@ -1,0 +1,168 @@
+#!/usr/bin/perl
+
+#
+# Setup
+#
+
+# Directives
+use strict;
+use warnings;
+use utf8;
+
+binmode(STDOUT, ":utf8");
+binmode(STDERR, ":utf8");
+
+# Modules
+use File::Basename;
+
+#
+# Paths
+#
+
+# These scripts are designed to work within the Git repository and
+# makes assumptions of all the relative paths and outputs.
+my $REPO_DIR = dirname(dirname($0));
+my $BUILD_DIR = "$REPO_DIR/build";
+my $DICT_MARKDOWN = "$BUILD_DIR/dictionary.markdown";
+my $DICT_DIR = "$REPO_DIR/dictionary";
+
+# Make sure the build directory exists.
+unless (-d $BUILD_DIR)
+{
+	print STDERR "Creating build directory\n";
+	mkdir($BUILD_DIR);
+}
+
+#
+# Processing
+#
+
+# Create the initial Markdown file.
+open DICT, ">:encoding(UTF-8)", $DICT_MARKDOWN
+	or die "Cannot write dictionary file ($!)";
+
+# Write out the front matter.
+print DICT join(
+	"\n",
+	"---",
+	"title: Miwāfu Dictionary",
+	"---"), "\n\n";
+
+# Loop through the directories in the dictionary.
+for my $s (sort(glob("$DICT_DIR/*")))
+{
+	# Figure out the basename.
+	my $bs = basename($s);
+
+	# Determine if we have any entries in here.
+	my @w = sort(glob("$s/*.markdown"));
+	next unless @w;
+	my $w = scalar(@w);
+
+	# Write out the entry.
+	print STDERR "Processing: $bs ($w entries)\n";
+	print DICT "# $bs\n\n";
+
+	# Go through each of these entries.
+	for $w (@w)
+	{
+		process_word($w);
+	}
+}
+
+# Finish up the dictionary.
+close DICT;
+
+#
+# Finished
+#
+
+print STDERR "Done\n";
+
+#
+# Subroutines
+#
+
+sub process_word
+{
+	# Pull out the entries from the file.
+	my ($file) = @_;
+
+	# Read in this file and process the entries.
+	open WORD, "<:encoding(UTF-8)", $file;
+
+	# The format of the file matches Wikionary's format which is not
+	# how most dictionaries are created.
+	my $pos = undef;
+	my $word = undef;
+	my %defs = ();
+
+	while (<WORD>)
+	{
+		# Clean up the line.
+		chomp;
+		next if /^\s*$/;
+		next if /^=/;
+		next if /^-/;
+
+		# Figure out the parts of speech.
+		if (m@(Noun|Verb|Marker|Pronoun|Adjective|Adverb)@)
+		{
+			$pos = lc($1);
+			$pos = "adv" if $pos eq "adverb";
+			$pos = "adj" if $pos eq "adjective";
+			$pos = "pro" if $pos eq "pronoun";
+			$pos = "mark" if $pos eq "marker";
+			next;
+		}
+
+		if (m@^Related$@)
+		{
+			$pos = undef;
+		}
+
+		# If we haven't hit a POS, then skip it.
+		next unless defined $pos;
+
+		# If we have a number in the beginning, then it's a definition.
+		if (m@^(\d+)\. (.*?)$@)
+		{
+			# Make sure we have an entry here.
+			push @{$defs{$word}{$pos}}, "**$1** $2";
+			next;
+		}
+
+		# Anything else is a word to add.
+		my %def_pos = ();
+		my @def_list = ();
+
+		$word = $_;
+		$defs{$word} = \%def_pos unless defined $defs{$word};
+		$defs{$word}{$pos} = \@def_list unless defined $defs{$word}{$pos};
+	}
+
+	# Finish up the file.
+	close WORD;
+
+	# Write out the Markdown line.
+	foreach $word (sort(keys(%defs)))
+	{
+		# Start by formatting the word.
+		my $buffer = "**$word**:";
+
+		# Add in the parts of speech.
+		for $pos (qw(noun verb adj adv pro mark))
+		{
+			# If we don't have one, skip it.
+			next unless exists $defs{$word}{$pos};
+
+			# Add in the POS.
+			$buffer .= " *$pos* ";
+
+			# Go through the definitions.
+			$buffer .= join(" ", @{$defs{$word}{$pos}});
+		}
+
+		print DICT "$buffer\n\n";
+	}
+}
