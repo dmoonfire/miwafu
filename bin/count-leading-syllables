@@ -12,6 +12,17 @@ use warnings;
 use File::Basename;
 
 #
+# Syllables
+#
+
+my @SYLLABLES = qw@a wa ra ma pa ba ha na da ta za sa ga ka fa e we re
+me pe be he ne de te ze se ge ke fe i wi ri mi pi bi hi ni chi ji shi
+gi ki fi o wo ro mo po bo ho no do to jo so go ko fo u wu ru mu pu bu
+hu nu tsu zu su gu ku fu ya rya mya pya bya hya nya chya jya shya gya
+kya yo ryo myo pyo byo hyo nyo chyo jyo shyo gyo kyo yu ryu myu pyu
+byu hyu nyu chyu jyu shyu gyu kyu n@;
+
+#
 # Figure out the directory
 #
 
@@ -23,11 +34,8 @@ my $dict_directory = "$root_directory/dictionary";
 # Go through the syllable files and build up the counts.
 #
 
-foreach my $syllable (glob("$dict_directory/*"))
+foreach my $syllable (@SYLLABLES)
 {
-	# Ignore non-directories.
-	next unless $syllable;
-
 	# Figure out the counts for this directory.
 	my @count = glob("$dict_directory/$syllable/*.markdown");
 	my $count = scalar(@count);
