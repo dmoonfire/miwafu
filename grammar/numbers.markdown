@@ -9,16 +9,16 @@ Numbers
 
 Arabic | Syllable
 -----: | :-------
-0      | pa
-1      | re
-2      | chi
-3      | ko
-4      | mu
-5      | za
-6      | ge
-7      | hi
-8      | to
-9      | fu
+0      | fu
+1      | pa
+2      | re
+3      | chi
+4      | mo
+5      | ku
+6      | za
+7      | ge
+8      | hi
+9      | to
 
 Numeral Particle
 ================================
@@ -38,44 +38,43 @@ The end of a numerical sequence is either a pause between words or `nwe`.
 Scales
 ================================
 
-With large numbers, values are separated in groups of three. The separator is `do`.
+With large numbers, over four digits, the typical convention is to write them out with a space or letter between each group of three.
 
-	wa padorechiko
-	wa pa do rechiko
-	[numeral] 1 [thousands] 234
-	1,234
+	we parechi moku
+	[numeral] 123 45
 
-If the entire group is zero, then the number itself can be skipped.
+To simplify numbers, `do` is used to indicate three zeros.
 
-	wa padorechiko
-	wa pa dodo rechiko
-	[numeral] 1 [thousands] [thousands] 234
-	1,000,234
+	padochi
+	1 000 2
+	10,002
 
-Scales are based on the previous number, not the total magnitude. In English, one would say "1 billion, 1 thousand." In Miwāfu, one would say "1 thousand 1 thousand".
+In addition to `do`, there are additional scale syllables used for large numbers.
 
-	wa padopado
-	wa pa do pa do
-	[number] 1 [thousands] 1 [thousands]
-	1,000,001,000
+Zeros | Description | Syllable
+----: | :-------    | :-------
+    1 | Ten         | mya
+    2 | Hundred     | pyu
+    3 | Thousand    | do
+    6 | Million     | kya
+    9 | Billion     | jyo
+   12 | Trillion    | shyo
 
-In addition to using the thousands skip, there are additional amounts that can be interspersed with the number or used at the end.
+Like `do`, these can easily be combined together to indicate more zeros.
 
-Arabic            | Description | Syllable
-----------------: | :-------
-10                | Ten         | mya
-100               | Hundred     | pyu
-1,000             | Thousand    | do
-1,000,000         | Million     | kya
-1,000,000,000     | Billion     | jyo
-1,000,000,000,000 | Trillion    | shyo
-
+	pa jyo re
+	pa dododo re
+	1 000000000 2
+	10,000,000,002
+ 
 These can be combined together:
 
 	pa doshyo
 	1 [thousand] [trillion]
 	1 quadrillion
 	1,000,000,000,000,000
+
+To do numbers like the English phrase "one thousand and one", see *Mathematics* below.
 
 Decimals
 ================================
