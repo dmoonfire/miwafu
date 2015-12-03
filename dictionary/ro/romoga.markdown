@@ -17,4 +17,4 @@ Verb
 romóga
 ----------------
 
-1. To measure or pace something out that is approximately a *romōga* distant.
+1. To measure out a distance that is approximately a *romōga* away.
