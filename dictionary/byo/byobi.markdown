@@ -13,9 +13,9 @@ byòbi
 byōbi
 ----------------
 
-1. As [byòbi](../byo/byobi.markdown) (n.1) but a young bunny or kit.
+1. As [byòbi](../byo/byobi.markdown) [n.1] but a young bunny or kit.
 
 byóbi
 ----------------
 
-1. As [byòbi](../byo/byobi.markdown) (n.1) but female.
+1. As [byòbi](../byo/byobi.markdown) [n.1] but female.
