@@ -1,0 +1,18 @@
+**ryodifūne**: *noun* The final run.
+
+**kojinōmi**: *noun* A dead person.
+
+**wabōryo**: Fighting bola.
+
+# From Reddit
+
+miwāfu [mi.waː.ɸɯ̥] -- word-final position after a voiceless consonant is the most common place to find /ɯ/-devoicing!
+
+kanéko [ka.ꜛne.ko] -- looks good!
+
+rutejìmo [ɺɯ.te.ꜜdʑi.mo] -- also looks good! Though, out of curiosity, is /di/ a valid segment? or /ti/? In Japanese, /di/ becomes [dʑi] and /ti/ becomes [tɕ] so just curious!
+
+waryoni pagani héru [wa.ɾjo.ni pa.ɡa.ni ꜛçe.ɾɯ] -- for this one, I didn't make any changes, but the /ɯ/ at the end of héru could again be devoiced.
+oe shimusògo i fapòdi eyo rutejìmo [o.e ɕi.mɯ.ꜜso.ɡo i ɸa.ꜜpo.di e.jo ɺɯ.te.ꜜdʑi.mo] -- also looks good! There could potentially be a devoicing of /i/ in shimusògo, particularly in rapid speech, but not consistently, as the /m/'s voicing can prevent it.
+
+pibini [pi.bi.ni] -- this one I would definitely not devoice. Devoicing in the middle of a word (not word-finally) is almost ALWAYS the interaction of a voiceless fricative and a voiceless plosive. I can't think of a single example where you would have two plosives, and definitely not when one of them is voiced. Here is an example of a Japanese word with devoicing: Shikoku (island) [ɕi̥kokɯ̥]. The /i/ here is almost universally devoiced, with the /ɯ/ optionally (though preferred) devoiced.
