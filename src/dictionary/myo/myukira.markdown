@@ -2,9 +2,7 @@
 title: myukira
 ---
 
-Noun
-================================
+# Noun
 
-myukíra
-----------------
+## myukíra
 1. Leaf.

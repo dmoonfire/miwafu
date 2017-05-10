@@ -2,10 +2,8 @@
 title: ta
 ---
 
-Pronoun
-================================
+# Pronoun
 
-ta
-----------------
+## ta
 
 1. This. Add "-n" for final.

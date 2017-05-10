@@ -2,10 +2,8 @@
 title: byomushike
 ---
 
-Noun
-================================
+# Noun
 
-byomushīke
-----------------
+## byomushīke
 
 1. Outsider.

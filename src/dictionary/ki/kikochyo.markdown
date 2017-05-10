@@ -2,10 +2,8 @@
 title: kikochyo
 ---
 
-Noun
-================================
+# Noun
 
-kikōchyo
-----------------
+## kikōchyo
 
 1. Ashes of a fire.

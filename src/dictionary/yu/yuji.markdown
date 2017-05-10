@@ -2,11 +2,9 @@
 title: yuji
 ---
 
-Noun
-================================
+# Noun
 
-yūji
-----------------
+## yūji
 
 1. An egg of a bird or insect.
 

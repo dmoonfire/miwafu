@@ -2,10 +2,8 @@
 title: hupodi
 ---
 
-Verb
-================================
+# Verb
 
-hupódi
-----------------
+## hupódi
 
 1. Come, approach.

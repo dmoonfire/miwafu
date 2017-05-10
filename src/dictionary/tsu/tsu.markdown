@@ -2,10 +2,8 @@
 title: tsu
 ---
 
-Pronoun
-================================
+# Pronoun
 
-tsu
-----------------
+## tsu
 
 1. "their clan"

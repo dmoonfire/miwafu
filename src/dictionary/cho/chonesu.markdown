@@ -2,10 +2,8 @@
 title: chonesu
 ---
 
-Noun
-================================
+# Noun
 
-chonésu
-----------------
+## chonésu
 
 1. Stars.

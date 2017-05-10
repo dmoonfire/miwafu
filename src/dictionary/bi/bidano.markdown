@@ -2,18 +2,14 @@
 title: bidano
 ---
 
-Noun
-================================
+# Noun
 
-bidáno
-----------------
+## bidáno
 
 1. A pinch of something, used for cooking.
 
-Verb
-================================
+# Verb
 
-bidāno
-----------------
+## bidāno
 
 1. To be nit-picky or find fault in tiny details.

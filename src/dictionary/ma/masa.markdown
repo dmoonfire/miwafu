@@ -2,10 +2,8 @@
 title: masa
 ---
 
-Noun
-================================
+# Noun
 
-māsa
-----------------
+## māsa
 
 1. 1/8th of a rōte or solar day.

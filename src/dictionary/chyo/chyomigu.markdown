@@ -2,11 +2,9 @@
 title: chyomigu
 ---
 
-Noun
-================================
+# Noun
 
-chyomīgu
-----------------
+## chyomīgu
 
 1. 1/10th of a domīgu.
 2. OOW: 2.01 cm

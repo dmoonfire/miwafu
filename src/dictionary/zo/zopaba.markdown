@@ -2,10 +2,8 @@
 title: zopaba
 ---
 
-Noun
-================================
+# Noun
 
-zopāba
-----------------
+## zopāba
 
 1. Round, circle

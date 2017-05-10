@@ -2,15 +2,12 @@
 title: chyore
 ---
 
-Noun
-================================
+# Noun
 
-chyòre
-----------------
+## chyòre
 
 1. Snake
 
-Related
-----------------
+## Related
 
 1. mizonekima chyòre - giant snake

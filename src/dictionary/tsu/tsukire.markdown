@@ -2,10 +2,8 @@
 title: tsukire
 ---
 
-Noun
-================================
+# Noun
 
-tsukíre
-----------------
+## tsukíre
 
 1. tsukíre

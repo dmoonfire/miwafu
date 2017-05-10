@@ -1,0 +1,24 @@
+#!/usr/bin/perl
+
+#
+# Setup
+#
+
+# Directives
+use strict;
+use warnings;
+
+#
+# Process
+#
+
+# Load the entire file.
+$/ = undef;
+my $buffer = <>;
+
+# Modify the buffer.
+$buffer =~ s@\n(\w+?)\n====+@\n# $1@sg;
+$buffer =~ s@\n([A-Za-zaeiouáéíóúàèìòùāēīōū]+?)\n----+@\n## $1@sg;
+
+# Output the file.
+print $buffer;

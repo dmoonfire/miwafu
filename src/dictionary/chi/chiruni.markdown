@@ -2,10 +2,8 @@
 title: chiruni
 ---
 
-Noun
-================================
+# Noun
 
-chirúni
-----------------
+## chirúni
 
 1. Warm weather.

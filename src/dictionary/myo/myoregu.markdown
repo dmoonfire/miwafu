@@ -2,10 +2,8 @@
 title: myoregu
 ---
 
-Noun
-================================
+# Noun
 
-myorègu
-----------------
+## myorègu
 
 1. Moron.

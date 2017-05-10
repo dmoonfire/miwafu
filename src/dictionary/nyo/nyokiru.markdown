@@ -2,10 +2,8 @@
 title: nyokiru
 ---
 
-Noun
-================================
+# Noun
 
-nyokìru
-----------------
+## nyokìru
 
 1. Root.

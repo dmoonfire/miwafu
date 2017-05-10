@@ -2,10 +2,8 @@
 title: jyoshya
 ---
 
-Adverb
-================================
+# Adverb
 
-jyōshya
-----------------
+## jyōshya
 
 1. All.

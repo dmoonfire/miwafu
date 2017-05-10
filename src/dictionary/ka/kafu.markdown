@@ -2,15 +2,12 @@
 title: kafu
 ---
 
-Verb
-================================
+# Verb
 
-kàfu
-----------------
+## kàfu
 
 1. Passion.
 
-káfu
-----------------
+## káfu
 
 1. Love, affection.

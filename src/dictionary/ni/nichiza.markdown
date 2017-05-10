@@ -2,10 +2,8 @@
 title: nichiza
 ---
 
-Noun
-================================
+# Noun
 
-nichìza
-----------------
+## nichìza
 
 1. Belly.

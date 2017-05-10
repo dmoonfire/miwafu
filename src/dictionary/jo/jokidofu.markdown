@@ -2,24 +2,19 @@
 title: jokidofu
 ---
 
-Noun
-================================
+# Noun
 
-jokidōfu
-----------------
+## jokidōfu
 
 1. Magical resonance.
 2. The field that surrounds mages and artifacts.
 
-Verb
-================================
+# Verb
 
-jokidòfu
-----------------
+## jokidòfu
 
 1. To create pain in someone else using magical resonance.
 
-jokidófu
-----------------
+## jokidófu
 
 1. To create discomfort in someone else using magical resonance.

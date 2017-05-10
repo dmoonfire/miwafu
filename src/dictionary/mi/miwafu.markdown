@@ -2,10 +2,8 @@
 title: miwafu
 ---
 
-Noun
-================================
+# Noun
 
-miwāfu
-----------------
+## miwāfu
 
 1. Words of the desert.

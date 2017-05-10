@@ -2,10 +2,8 @@
 title: pyabi
 ---
 
-Noun
-================================
+# Noun
 
-pyābi
-----------------
+## pyābi
 
 1. The primary currency of the [Mifúno Desert](mifúno).

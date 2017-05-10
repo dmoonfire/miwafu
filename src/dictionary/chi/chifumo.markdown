@@ -2,10 +2,8 @@
 title: chifumo
 ---
 
-Noun
-================================
+# Noun
 
-chifùmo
-----------------
+## chifùmo
 
 1. Cold weather.

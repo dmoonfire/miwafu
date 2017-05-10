@@ -2,10 +2,8 @@
 title: mo
 ---
 
-Pronoun
-================================
+# Pronoun
 
-mo
-----------------
+## mo
 
 1. What, who, whom, question placeholder.

@@ -2,15 +2,12 @@
 title: mifuno
 ---
 
-Noun
-================================
+# Noun
 
-mifūno
-----------------
+## mifūno
 
 1. The desrt.
 
-mifúno
-----------------
+## mifúno
 
 1. The desert spirit.

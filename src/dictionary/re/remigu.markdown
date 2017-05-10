@@ -2,10 +2,8 @@
 title: remigu
 ---
 
-Noun
-================================
+# Noun
 
-remígu
-----------------
+## remígu
 
 1. Grease, fat.

@@ -2,10 +2,8 @@
 title: barichiroma
 ---
 
-Noun
-================================
+# Noun
 
-barichirōma
-----------------
+## barichirōma
 
 1. Magic-less person.

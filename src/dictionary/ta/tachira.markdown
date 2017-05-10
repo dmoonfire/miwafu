@@ -2,14 +2,11 @@
 title: tachira
 ---
 
-Noun
-================================
+# Noun
 
-tachìra
-----------------
+## tachìra
 
 1. The sun spirit.
 
-tachīra
-----------------
+## tachīra
 2. The sun.

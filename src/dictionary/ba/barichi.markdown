@@ -2,10 +2,8 @@
 title: barichi
 ---
 
-Adjective
-================================
+# Adjective
 
-barìchi
-----------------
+## barìchi
 
 1. Mundane, non-magical.

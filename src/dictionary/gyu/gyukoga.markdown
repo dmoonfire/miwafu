@@ -2,11 +2,9 @@
 title: gyukoga
 ---
 
-Noun
-================================
+# Noun
 
-gyukōga
-----------------
+## gyukōga
 
 1. 1. 80 chimōga.
 2. 1/9th the distance an average person can walk in a māsa.

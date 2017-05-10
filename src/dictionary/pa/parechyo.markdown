@@ -2,10 +2,8 @@
 title: parechyo
 ---
 
-Noun
-================================
+# Noun
 
-parēchyo
-----------------
+## parēchyo
 
 1. Knee.

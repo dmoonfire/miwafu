@@ -2,15 +2,12 @@
 title: sakomichi
 ---
 
-Noun
-================================
+# Noun
 
-sakomìchi
-----------------
+## sakomìchi
 
 1. The leader of one side of a battle or war.
 
-sakomíchi
-----------------
+## sakomíchi
 
 1. The clan leader in a battle or war.

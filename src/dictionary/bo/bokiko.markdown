@@ -2,10 +2,8 @@
 title: bokiko
 ---
 
-Noun
-================================
+# Noun
 
-bokíko
-----------------
+## bokíko
 
 1. Fire smoke.

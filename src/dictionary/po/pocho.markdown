@@ -2,15 +2,12 @@
 title: pocho
 ---
 
-Noun
-===============================
+# Noun
 
-pòcho
-----------------
+## pòcho
 
 1. An overwhelming fear or terror.
 
-pócho
-----------------
+## pócho
 
 1. A discomforting fear, one that does not stop someone.

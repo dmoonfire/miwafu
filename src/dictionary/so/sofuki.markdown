@@ -2,11 +2,9 @@
 title: sofuki
 ---
 
-Noun
-================================
+# Noun
 
-sofùki
-----------------
+## sofùki
 
 1. A volume of a standard bottle of wine.
 2. A volume of liquid equal to 3.3 [kéka](../ke/keka.markdown).

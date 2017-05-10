@@ -2,10 +2,8 @@
 title: hachifu
 ---
 
-Noun
-================================
+# Noun
 
-hachīfu
-----------------
+## hachīfu
 
 1. Path, road, trail.

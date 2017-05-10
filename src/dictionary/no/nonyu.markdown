@@ -2,24 +2,19 @@
 title: nonyu
 ---
 
-Noun
-================================
+# Noun
 
-nònyu
-----------------
+## nònyu
 
 1. Agony, overwhelming pain.
 
-nónyu
-----------------
+## nónyu
 
 1. Discomfort.
 
-Verb
-================================
+# Verb
 
-nōnyu
-----------------
+## nōnyu
 
 1. To live with pain or agony.
 

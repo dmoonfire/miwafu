@@ -2,10 +2,8 @@
 title: detokishi
 ---
 
-Noun
-================================
+# Noun
 
-detokìshi
-----------------
+## detokìshi
 
 1. Desert folk.

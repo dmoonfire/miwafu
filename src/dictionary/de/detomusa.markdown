@@ -2,10 +2,8 @@
 title: detomusa
 ---
 
-Noun
-================================
+# Noun
 
-detomùsa
-----------------
+## detomùsa
 
 1. Persistent sand storm.

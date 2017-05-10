@@ -2,10 +2,8 @@
 title: ge
 ---
 
-Adjective
-================================
+# Adjective
 
-ge
-----------------
+## ge
 
 1. My clan.

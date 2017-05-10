@@ -2,11 +2,9 @@
 title: mushigi
 ---
 
-Noun
-================================
+# Noun
 
-mushìgi
-----------------
+## mushìgi
 
 1. Tongue.
 

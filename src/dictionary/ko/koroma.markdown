@@ -2,10 +2,8 @@
 title: koroma
 ---
 
-Adjective
-================================
+# Adjective
 
-korōma
-----------------
+## korōma
 
 1. Cursed.

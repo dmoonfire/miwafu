@@ -2,10 +2,8 @@
 title: jyopa
 ---
 
-Numeral
-================================
+# Numeral
 
-jyōpa
-----------------
+## jyōpa
 
 1. One.

@@ -2,10 +2,8 @@
 title: poga
 ---
 
-Verb
-================================
+# Verb
 
-pòga
-----------------
+## pòga
 
 1. To participate in loud or enthusiastic sex.

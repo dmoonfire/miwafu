@@ -2,22 +2,18 @@
 title: man
 ---
 
-Noun
-================================
+# Noun
 
-màn
-----------------
+## màn
 
 1. Myself, when referencing a masculine person.
 
 
-mān
-----------------
+## mān
 
 1. As *màn* (noun 1), but as a neuter.
 
 
-mán
-----------------
+## mán
 
 1. As *màn* (noun 1), but as a feminine.

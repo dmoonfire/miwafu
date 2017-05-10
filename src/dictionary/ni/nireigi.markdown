@@ -2,10 +2,8 @@
 title: nireigi
 ---
 
-Adjective
-================================
+# Adjective
 
-nireígi
-----------------
+## nireígi
 
 1. New, freshly made.

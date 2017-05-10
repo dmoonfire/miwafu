@@ -2,28 +2,22 @@
 title: zushi
 ---
 
-Noun
-================================
+# Noun
 
-zùshi
-----------------
+## zùshi
 
 1. A long or a full night's sleep.
 
-zúshi
-----------------
+## zúshi
 
 1. A nap.
 
-Verb
-================================
+# Verb
 
-zùshi
-----------------
+## zùshi
 
 1. To sleep for a long time.
 
-zúshi
-----------------
+## zúshi
 
 1. To take a nap.

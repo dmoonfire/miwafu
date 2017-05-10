@@ -2,16 +2,13 @@
 title: fapodi
 ---
 
-Verb
-================================
+# Verb
 
-fapòdi
-----------------
+## fapòdi
 
 1. To sprint or run at full speed.
 
-fapódi
-----------------
+## fapódi
 
 1. To run over long distances.
 2. Endurance running.

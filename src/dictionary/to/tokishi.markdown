@@ -2,10 +2,8 @@
 title: tokishi
 ---
 
-Noun
-================================
+# Noun
 
-tokíshi
-----------------
+## tokíshi
 
 1. People, folk.

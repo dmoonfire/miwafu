@@ -2,10 +2,8 @@
 title: bikiku
 ---
 
-Noun
-================================
+# Noun
 
-bikíku
-----------------
+## bikíku
 
 1. Flea, louse.

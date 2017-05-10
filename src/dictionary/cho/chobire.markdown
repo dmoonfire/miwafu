@@ -2,10 +2,8 @@
 title: chobire
 ---
 
-Noun
-================================
+# Noun
 
-chobìre
-----------------
+## chobìre
 
 1. The moon.

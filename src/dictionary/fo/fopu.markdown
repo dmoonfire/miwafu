@@ -2,10 +2,8 @@
 title: fopu
 ---
 
-Adjective
-================================
+# Adjective
 
-fōpu
-----------------
+## fōpu
 
 1. Full, stuffed.

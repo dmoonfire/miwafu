@@ -2,10 +2,8 @@
 title: gokote
 ---
 
-Noun
-================================
+# Noun
 
-gokōte
-----------------
+## gokōte
 
 1. A solar week consisting of eight rōte.

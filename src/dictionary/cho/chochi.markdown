@@ -2,10 +2,8 @@
 title: chochi
 ---
 
-Noun
-================================
+# Noun
 
-chòchi
-----------------
+## chòchi
 
 1. A lunar cycle or month.

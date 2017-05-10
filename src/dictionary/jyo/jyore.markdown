@@ -2,10 +2,8 @@
 title: jyore
 ---
 
-Numeral
-================================
+# Numeral
 
-jyōre
-----------------
+## jyōre
 
 1. Two.

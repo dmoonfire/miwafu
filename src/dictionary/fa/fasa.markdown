@@ -2,11 +2,9 @@
 title: fasa
 ---
 
-Adverb
-================================
+# Adverb
 
-fasa
-----------------
+## fasa
 
 1. Fast, speedy.
 

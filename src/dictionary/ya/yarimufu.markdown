@@ -2,10 +2,8 @@
 title: yarimufu
 ---
 
-Noun
-================================
+# Noun
 
-yarimùfu
-----------------
+## yarimùfu
 
 1. Cloud.

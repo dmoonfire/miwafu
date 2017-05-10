@@ -2,11 +2,9 @@
 title: shikafu
 ---
 
-Noun
-================================
+# Noun
 
-shikāfu
-----------------
+## shikāfu
 
 1. Unrequited love or a crush.
 

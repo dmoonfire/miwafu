@@ -2,10 +2,8 @@
 title: hayoka
 ---
 
-Adjective
-================================
+# Adjective
 
-hayòka
-----------------
+## hayòka
 
 1. Good, favorable.

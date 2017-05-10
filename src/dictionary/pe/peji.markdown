@@ -2,11 +2,9 @@
 title: peji
 ---
 
-Verb
-================================
+# Verb
 
-péji
-----------------
+## péji
 
 1. To temporarily raise something.
 

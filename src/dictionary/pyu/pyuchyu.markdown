@@ -2,11 +2,9 @@
 title: pyuchyu
 ---
 
-Adjective
-================================
+# Adjective
 
-pyùchyu
-----------------
+## pyùchyu
 
 1. Stinky, has a stench.
 

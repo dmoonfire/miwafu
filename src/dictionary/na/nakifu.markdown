@@ -2,15 +2,12 @@
 title: nakifu
 ---
 
-Noun
-================================
+# Noun
 
-nakìfu
-----------------
+## nakìfu
 
 1. A long or epic poem.
 
-nakífu
----------------
+## nakífu
 
 1. A short poem.

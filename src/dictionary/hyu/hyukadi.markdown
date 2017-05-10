@@ -2,10 +2,8 @@
 title: hyukadi
 ---
 
-Verb
-================================
+# Verb
 
-hyukádi
-----------------
+## hyukádi
 
 1. To volunteer or give assistance.

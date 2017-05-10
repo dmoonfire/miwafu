@@ -2,10 +2,8 @@
 title: sugo
 ---
 
-Noun
-================================
+# Noun
 
-súgo
-----------------
+## súgo
 
 1. Know, knowledge.

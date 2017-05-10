@@ -2,10 +2,8 @@
 title: rakiki
 ---
 
-Noun
-================================
+# Noun
 
-rakìki
-----------------
+## rakìki
 
 1. Bark of a tree.

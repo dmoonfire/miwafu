@@ -2,10 +2,8 @@
 title: tata
 ---
 
-Pronoun
-================================
+# Pronoun
 
-tata
-----------------
+## tata
 
 1. That, use "-n" for final.

@@ -2,10 +2,8 @@
 title: kodoshyo
 ---
 
-Noun
-================================
+# Noun
 
-kodòshyo
-----------------
+## kodòshyo
 
 1. Mountain.

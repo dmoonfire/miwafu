@@ -2,15 +2,12 @@
 title: gimetsui
 ---
 
-Verb
-================================
+# Verb
 
-gimetsùi
-----------------
+## gimetsùi
 
 1. To give birth to a living child.
 
-gimetsūi
-----------------
+## gimetsūi
 
 1. To lay eggs or other non-live birth.

@@ -2,10 +2,8 @@
 title: ryon
 ---
 
-Noun
-================================
+# Noun
 
-ryōn
-----------------
+## ryōn
 
 1. The color white.

@@ -2,8 +2,7 @@
 title: chyotemako nakifu
 ---
 
-Noun
-================================
+# Noun
 
 chyotemako nakífu
 ----------------

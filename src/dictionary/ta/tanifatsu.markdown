@@ -2,19 +2,15 @@
 title: tanifatsu
 ---
 
-Noun
-================================
+# Noun
 
-tanifātsu
-----------------
+## tanifātsu
 
 1. A script that has vowels underneath the consonants.
 2. The script of the Eastern part of the Mifúno desert.
 
-Verb
-================================
+# Verb
 
-tanifátsu
-----------------
+## tanifátsu
 
 1. To write in a *tanifātsu* script.

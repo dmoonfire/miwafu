@@ -2,10 +2,8 @@
 title: te
 ---
 
-Pronoun
-================================
+# Pronoun
 
-te
-----------------
+## te
 
 1. They, them, theirs.

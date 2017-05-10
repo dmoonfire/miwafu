@@ -2,10 +2,8 @@
 title: gamekoji
 ---
 
-Noun
-================================
+# Noun
 
-gamekōji
-----------------
+## gamekōji
 
 1. A miscarriage.

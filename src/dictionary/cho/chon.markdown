@@ -2,10 +2,8 @@
 title: chon
 ---
 
-Adjective
-================================
+# Adjective
 
-chōn
-----------------
+## chōn
 
 1. Black.

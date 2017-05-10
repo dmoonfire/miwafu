@@ -2,10 +2,8 @@
 title: mujichi
 ---
 
-Adjective
-================================
+# Adjective
 
-mujìchi
-----------------
+## mujìchi
 
 1. Dry, powdery

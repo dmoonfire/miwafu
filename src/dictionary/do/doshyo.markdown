@@ -2,10 +2,8 @@
 title: doshyo
 ---
 
-Noun
-================================
+# Noun
 
-dóshyo
-----------------
+## dóshyo
 
 1. Soil, earth.

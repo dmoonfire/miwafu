@@ -2,10 +2,8 @@
 title: byomokishi
 ---
 
-Noun
-================================
+# Noun
 
-byomokīshi
-----------------
+## byomokīshi
 
 1. Non-desert people.

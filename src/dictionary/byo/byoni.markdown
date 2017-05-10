@@ -2,16 +2,13 @@
 title: byoni
 ---
 
-Verb
-================================
+# Verb
 
-byòni
-----------------
+## byòni
 
 1. To bawl or cry loudly.
 2. To break down sobbing.
 
-byóni
-----------------
+## byóni
 
 1. To have a little cry.

@@ -2,11 +2,9 @@
 title: herudaki
 ---
 
-Noun
-================================
+# Noun
 
-herudāki
-----------------
+## herudāki
 
 1. The weight of a horse.
 2. 30 [madèku](../ma/madèku.markdown).

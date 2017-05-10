@@ -2,10 +2,8 @@
 title: ma
 ---
 
-Adjective
-================================
+# Adjective
 
-ma
-----------------
+## ma
 
 1. Me, I, mine.

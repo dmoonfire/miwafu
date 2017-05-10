@@ -2,10 +2,8 @@
 title: jyomyo
 ---
 
-Pronoun
-================================
+# Pronoun
 
-jyōmyo
-----------------
+## jyōmyo
 
 1. Many.

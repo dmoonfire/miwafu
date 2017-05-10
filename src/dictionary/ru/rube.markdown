@@ -2,15 +2,12 @@
 title: rube
 ---
 
-Noun
-================================
+# Noun
 
-rùbe
-----------------
+## rùbe
 
 1. A large quantity of water.
 
-rúbe
-----------------
+## rúbe
 
 1. A small quantity of water.

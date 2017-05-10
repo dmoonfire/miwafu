@@ -2,10 +2,8 @@
 title: kishi
 ---
 
-Noun
-================================
+# Noun
 
-kìshi
-----------------
+## kìshi
 
 1. Male, masculine.

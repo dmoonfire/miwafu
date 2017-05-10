@@ -2,16 +2,13 @@
 title: shifin
 ---
 
-Noun
-================================
+# Noun
 
-shifìn
-----------------
+## shifìn
 
 1. A deep and humiliating shame.
 
 
-shifín
-----------------
+## shifín
 
 1. Mildly shamed.

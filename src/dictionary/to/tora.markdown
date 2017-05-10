@@ -2,15 +2,12 @@
 title: tora
 ---
 
-Noun
-================================
+# Noun
 
-tòra
-----------------
+## tòra
 
 1. A male dog or hound.
 
-Related
-----------------
+## Related
 
 1. figaki tòra: A short-haired dog, typically feral.

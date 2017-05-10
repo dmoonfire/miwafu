@@ -2,10 +2,8 @@
 title: poroneso
 ---
 
-Noun
-================================
+# Noun
 
-poronēso
-----------------
+## poronēso
 
 1. Kin-killer.

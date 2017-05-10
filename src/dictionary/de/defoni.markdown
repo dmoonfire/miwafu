@@ -2,10 +2,8 @@
 title: defoni
 ---
 
-Noun
-================================
+# Noun
 
-defòni
-----------------
+## defòni
 
 1. Feather.

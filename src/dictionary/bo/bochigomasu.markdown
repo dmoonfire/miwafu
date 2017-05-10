@@ -2,10 +2,8 @@
 title: bochigomasu
 ---
 
-Verb
-================================
+# Verb
 
-bochigomāsu
-----------------
+## bochigomāsu
 
 1. Do perform something that takes a week to complete.

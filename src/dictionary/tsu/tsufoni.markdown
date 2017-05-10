@@ -2,10 +2,8 @@
 title: tsufoni
 ---
 
-Noun
-================================
+# Noun
 
-tsufóni
-----------------
+## tsufóni
 
 1. Hair on a human or creature.

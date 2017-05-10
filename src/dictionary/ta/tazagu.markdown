@@ -2,10 +2,8 @@
 title: tazagu
 ---
 
-Noun
-================================
+# Noun
 
-tazágu
-----------------
+## tazágu
 
 1. A fighting spike.

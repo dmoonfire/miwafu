@@ -2,11 +2,9 @@
 title: kokeku
 ---
 
-Noun
-================================
+# Noun
 
-kokèku
-----------------
+## kokèku
 
 1. The amount of water an average person needs for a single day in the desert.
 2. A volume of liquid equal to 13 [kéka](../ke/keka.markdown).

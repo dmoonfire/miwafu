@@ -2,10 +2,8 @@
 title: kifi
 ---
 
-Verb
-================================
+# Verb
 
-kífi
-----------------
+## kífi
 
 1. Give, hand over.

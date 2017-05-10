@@ -2,10 +2,8 @@
 title: kifomakoji
 ---
 
-Verb
-================================
+# Verb
 
-kifomakóji
-----------------
+## kifomakóji
 
 1. To lose a loved one to death.

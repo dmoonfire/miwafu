@@ -2,10 +2,8 @@
 title: nibapu
 ---
 
-Noun
-================================
+# Noun
 
-nibàpu
-----------------
+## nibàpu
 
 1. Liver

@@ -2,11 +2,9 @@
 title: minafatsu
 ---
 
-Noun
-================================
+# Noun
 
-minafātsu
-----------------
+## minafātsu
 
 1. Written words or letters of the desert tongue.
 

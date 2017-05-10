@@ -2,10 +2,8 @@
 title: yo
 ---
 
-Particle
-================================
+# Particle
 
-yo
-----------------
+## yo
 
 1. Suffix for not or negate.

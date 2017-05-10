@@ -2,19 +2,15 @@
 title: kyumogo
 ---
 
-Noun
-================================
+# Noun
 
-kyumōgo
-----------------
+## kyumōgo
 
 1. A measurement of distance.
 2. A mile.
 
-Verb
-================================
+# Verb
 
-kyumógo
-----------------
+## kyumógo
 
 1. To measure or pace something out that is approximately a *kyumōgo* distance.

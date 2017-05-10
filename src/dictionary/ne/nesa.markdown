@@ -2,10 +2,8 @@
 title: nesa
 ---
 
-Adjective
-================================
+# Adjective
 
-nésa
-----------------
+## nésa
 
 1. Unhappily, miserably.

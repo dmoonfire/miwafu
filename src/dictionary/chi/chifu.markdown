@@ -2,10 +2,8 @@
 title: chifu
 ---
 
-Adjective
-================================
+# Adjective
 
-chīfu
-----------------
+## chīfu
 
 1. Long.

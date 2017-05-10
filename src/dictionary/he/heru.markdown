@@ -2,20 +2,16 @@
 title: heru
 ---
 
-Noun
-================================
+# Noun
 
-hèru
-----------------
+## hèru
 
 1. A stallion or male horse.
 
-hēru
-----------------
+## hēru
 
 1. A foal or young horse.
 
-héru
-----------------
+## héru
 
 1. A mare or female horse.

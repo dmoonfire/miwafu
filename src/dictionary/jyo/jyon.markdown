@@ -2,10 +2,8 @@
 title: jyon
 ---
 
-Adjective
-================================
+# Adjective
 
-jyōn
-----------------
+## jyōn
 
 1. Yellow.

@@ -2,10 +2,8 @@
 title: nibaba
 ---
 
-Noun
-================================
+# Noun
 
-nibába
-----------------
+## nibába
 
 1. Breasts.

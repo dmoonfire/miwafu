@@ -2,10 +2,8 @@
 title: nyan
 ---
 
-Adjective
-================================
+# Adjective
 
-nyān
-----------------
+## nyān
 
 1. Blue.

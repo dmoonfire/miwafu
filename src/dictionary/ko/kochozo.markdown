@@ -2,10 +2,8 @@
 title: kochozo
 ---
 
-Verb
-================================
+# Verb
 
-kochōzo
-----------------
+## kochōzo
 
 1. Sleep.
