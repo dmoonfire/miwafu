@@ -79,7 +79,7 @@ for my $s (sort(glob("$DICT_DIR/*")))
 	print STDERR "Processing: $bs ($w entries)\n";
 	print $DICT "# $bs\n\n";
 	
-	print $SYB "---\ntitle: Miwāfu Dictionary - $bs\n---\n\n# $bs\n\n";
+	print $SYB "---\ntitle: Miwāfu Dictionary - $bs\nbreadcrumbTitle: $bs\n---\n\n# $bs\n\n";
 
 	# Go through each of these entries.
 	for $w (@w)
@@ -157,6 +157,7 @@ sub process_word
 		my %def_pos = ();
 		my @def_list = ();
 
+		s@^\#+\s+@@;
 		$word = $_;
 		$defs{$word} = \%def_pos unless defined $defs{$word};
 		$defs{$word}{$pos} = \@def_list unless defined $defs{$word}{$pos};

@@ -4,8 +4,7 @@ title: Formality
 
 In Miwāfu, there is a relatively complex system of formality while speaking and writing. Reverence and respect are both critical to the society and it is reflected in their speech.
 
-Modes
-================================
+# Modes
 
 There are four modes of formality in the language. For this discussion, the following terms will be used.
 
@@ -14,18 +13,15 @@ There are four modes of formality in the language. For this discussion, the foll
 3. Informal: Speaking informally.
 4. Rude: Speaking with the intent to insult or demean.
 
-Verbosity
-================================
+# Verbosity
 
 When speaking reverently, in general, the language becomes more verbose and formalized. On the other hand, speaking rudely also includes verbosity while the other two modes (polite and informal) are typically more terse.
 
-Explicit Particles
-================================
+# Explicit Particles
 
 When speaking reverently, [particles](particles.markdown) are not excluded, including sentence and phrase order particles.
 
-Adverbs and Adjectives
-================================
+# Adverbs and Adjectives
 
 When speaking formally, frequently the speaker uses more adjectives and adverbs while describing their actions. So, while informally someone may say:
 
@@ -51,8 +47,7 @@ You can speak as an equal.
 
 Even with this, it is not uncommon to still include one or two additional phrases in a sentence to acknowledge the difference, but it is a not-so-subtle request to "speed it up."
 
-"Great"
-----------------
+# "Great"
 
 One of the most common additional phrases when reverntly speaking to a superior is the use of `fechi` which means great. This is always used with the full name of the person being spoken to with the clan name first.
 

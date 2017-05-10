@@ -38,41 +38,43 @@ The end of a numerical sequence is either a pause between words or `nwe`.
 Scales
 ================================
 
-With large numbers, over four digits, the typical convention is to write them out with a space or letter between each group of three.
+With large numbers, over five digits, the typical convention is to write them out with a space or letter between each group of four. The gruoping is from left to right. The space is not required.
 
-	we parechi moku
-	[numeral] 123 45
+	we parechimo ku
+	[numeral] 1234 5
 
-To simplify numbers, `do` is used to indicate three zeros.
+To simplify numbers, `do` is used to indicate four zeros.
 
 	padochi
-	1 000 2
-	10,002
+	pa do chi
+	1 0000 2
+	100,002
 
 In addition to `do`, there are additional scale syllables used for large numbers.
 
-Zeros | Description | Syllable
-----: | :-------    | :-------
-    1 | Ten         | mya
-    2 | Hundred     | pyu
-    3 | Thousand    | do
-    6 | Million     | kya
-    9 | Billion     | jyo
-   12 | Trillion    | shyo
+Zeros | Description  | Syllable
+----: | :-------     | :-------
+    1 | Ten          | mya
+    2 | Hundred      | pyu
+    3 | Thousand     | nyu
+    4 | 10 Thousand  | do
+    8 | 10 Million   | kya
+   12 | 10 Billion   | jyo
+   16 | 10 Trillion  | shyo
 
 Like `do`, these can easily be combined together to indicate more zeros.
 
 	pa jyo re
 	pa dododo re
-	1 000000000 2
-	10,000,000,002
+	1 000000000000 2
+	10,000,000,000,002
  
 These can be combined together:
 
 	pa doshyo
-	1 [thousand] [trillion]
-	1 quadrillion
-	1,000,000,000,000,000
+	1 0000 00000000000000000000
+	1 septillion
+        1e24
 
 To do numbers like the English phrase "one thousand and one", see *Mathematics* below.
 
