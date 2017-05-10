@@ -14,6 +14,17 @@ binmode(STDERR, ":utf8");
 
 # Modules
 use File::Basename;
+use Getopt::Long;
+
+# Variables
+my $EXT = ".markdown";
+my $REPO_DIR = dirname($0) . "/..";
+my $BUILD_DIR = "$REPO_DIR/build";
+
+&GetOptions(
+	"output|o=s" => \$BUILD_DIR,
+	"ext|e=s" => \$EXT,
+	);
 
 #
 # Paths
@@ -21,11 +32,9 @@ use File::Basename;
 
 # These scripts are designed to work within the Git repository and
 # makes assumptions of all the relative paths and outputs.
-my $REPO_DIR = dirname(dirname($0));
-my $BUILD_DIR = "$REPO_DIR/build";
-my $DICT_MARKDOWN = "$BUILD_DIR/dictionary.markdown";
+my $DICT_MARKDOWN = "$BUILD_DIR/index.markdown";
 my $DICT_DIR = "$REPO_DIR/src/dictionary";
-
+	
 # Make sure the build directory exists.
 unless (-d $BUILD_DIR)
 {
@@ -38,14 +47,17 @@ unless (-d $BUILD_DIR)
 #
 
 # Create the initial Markdown file.
-open DICT, ">:encoding(UTF-8)", $DICT_MARKDOWN
+my ($DICT, $SYB);
+print STDERR "Writing to $DICT_MARKDOWN\n";
+open $DICT, ">:encoding(UTF-8)", $DICT_MARKDOWN
 	or die "Cannot write dictionary file ($!)";
 
 # Write out the front matter.
-print DICT join(
+print $DICT join(
 	"\n",
 	"---",
 	"title: Miwāfu Dictionary",
+	"breadcrumbTitle: Dictionary",
 	"---"), "\n\n";
 
 # Loop through the directories in the dictionary.
@@ -54,6 +66,10 @@ for my $s (sort(glob("$DICT_DIR/*")))
 	# Figure out the basename.
 	my $bs = basename($s);
 
+	# Open up the syllable file.
+	open $SYB, ">:encoding(UTF-8)", "$BUILD_DIR/$bs.markdown"
+		or die "Cannot write $bs dictionary file ($!)";
+
 	# Determine if we have any entries in here.
 	my @w = sort(glob("$s/*.markdown"));
 	next unless @w;
@@ -61,17 +77,22 @@ for my $s (sort(glob("$DICT_DIR/*")))
 
 	# Write out the entry.
 	print STDERR "Processing: $bs ($w entries)\n";
-	print DICT "# $bs\n\n";
+	print $DICT "# $bs\n\n";
+	
+	print $SYB "---\ntitle: Miwāfu Dictionary - $bs\n---\n\n# $bs\n\n";
 
 	# Go through each of these entries.
 	for $w (@w)
 	{
-		process_word($w);
+		process_word($w, $bs);
 	}
+
+	# Close the file.
+	close $SYB;
 }
 
 # Finish up the dictionary.
-close DICT;
+close $DICT;
 
 #
 # Finished
@@ -86,7 +107,7 @@ print STDERR "Done\n";
 sub process_word
 {
 	# Pull out the entries from the file.
-	my ($file) = @_;
+	my ($file, $bs) = @_;
 
 	# Read in this file and process the entries.
 	open WORD, "<:encoding(UTF-8)", $file;
@@ -148,7 +169,12 @@ sub process_word
 	foreach $word (sort(keys(%defs)))
 	{
 		# Start by formatting the word.
-		my $buffer = "**$word**:";
+		my $slug = $word;
+		$slug =~ tr/[aeiouáéíóúàèìòùāēīōū]/[aeiouaeiouaeiou]/;
+		print $DICT "[$word]($bs/$slug$EXT):";
+		print $SYB "[$word]($slug$EXT):";
+
+		my $buffer = "";
 
 		# Add in the parts of speech.
 		for $pos (qw(noun verb adj adv pro mark))
@@ -163,6 +189,7 @@ sub process_word
 			$buffer .= join(" ", @{$defs{$word}{$pos}});
 		}
 
-		print DICT "$buffer\n\n";
+		print $DICT "$buffer\n\n";
+		print $SYB "$buffer\n\n";
 	}
 }
