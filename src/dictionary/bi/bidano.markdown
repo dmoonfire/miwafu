@@ -1,11 +1,11 @@
 ---
-title: bedano
+title: bidano
 ---
 
 Noun
 ================================
 
-bedáno
+bidáno
 ----------------
 
 1. A pinch of something, used for cooking.
@@ -13,8 +13,7 @@ bedáno
 Verb
 ================================
 
-bedāno
+bidāno
 ----------------
 
 1. To be nit-picky or find fault in tiny details.
-
