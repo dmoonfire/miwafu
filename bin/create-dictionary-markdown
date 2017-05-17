@@ -39,7 +39,7 @@ my $DICT_DIR = "$REPO_DIR/src/dictionary";
 unless (-d $BUILD_DIR)
 {
 	print STDERR "Creating build directory\n";
-	mkdir($BUILD_DIR);
+	system("mkdir", "-p", $BUILD_DIR);
 }
 
 #
